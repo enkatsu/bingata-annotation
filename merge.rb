@@ -4,7 +4,7 @@ imgs = []
 Dir.glob('json/*.json').each do |path|
   File.open(path) do |f|
     hash = JSON.load(f)
-    path = hash['asset']['path']
+    path = hash['asset']['path'].split('/').slice(7..8).join('/')
     size = hash['asset']['size']
     objects = hash['regions'].map do |region|
       {
