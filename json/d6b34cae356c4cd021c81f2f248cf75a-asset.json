@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d6b34cae356c4cd021c81f2f248cf75a",
+        "name": "0-3.jpg",
+        "path": "file:/Users/macbookair/Documents/2019_develop/DIA/bingata-annotation/img/0-3.jpg",
+        "size": {
+            "width": 600,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "SDNbFjVr0",
+            "type": "RECTANGLE",
+            "tags": [
+                "flower"
+            ],
+            "boundingBox": {
+                "height": 545.5737789735099,
+                "width": 593.6051324503311,
+                "left": 6.394867549668874,
+                "top": 47.60063120860927
+            },
+            "points": [
+                {
+                    "x": 6.394867549668874,
+                    "y": 47.60063120860927
+                },
+                {
+                    "x": 600,
+                    "y": 47.60063120860927
+                },
+                {
+                    "x": 600,
+                    "y": 593.1744101821192
+                },
+                {
+                    "x": 6.394867549668874,
+                    "y": 593.1744101821192
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

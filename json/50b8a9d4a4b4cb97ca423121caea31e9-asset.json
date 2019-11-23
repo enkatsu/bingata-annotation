@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "50b8a9d4a4b4cb97ca423121caea31e9",
+        "name": "10-0.jpg",
+        "path": "file:/Users/macbookair/Documents/2019_develop/DIA/bingata-annotation/img/10-0.jpg",
+        "size": {
+            "width": 600,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "R-YSWbLNO",
+            "type": "RECTANGLE",
+            "tags": [
+                "bird"
+            ],
+            "boundingBox": {
+                "height": 407.994877897351,
+                "width": 223.33531663907283,
+                "left": 376.66468336092714,
+                "top": 156.69365687086093
+            },
+            "points": [
+                {
+                    "x": 376.66468336092714,
+                    "y": 156.69365687086093
+                },
+                {
+                    "x": 600,
+                    "y": 156.69365687086093
+                },
+                {
+                    "x": 600,
+                    "y": 564.6885347682119
+                },
+                {
+                    "x": 376.66468336092714,
+                    "y": 564.6885347682119
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}
